@@ -23,6 +23,7 @@
   <a href="https://www.youtube.com/c/@vishnusreeaditya6426" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
+  <a href="https://www.leetcode.com/vishh_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishh_16" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -116,8 +117,9 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya16082004&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya16082004&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ff69b4&text_color=ff69b4&icon_color=ff69b4" alt="Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya16082004&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya16082004&show_icons=true&locale=en&bg_color=000000&title_color=ff69b4&text_color=ff69b4&icon_color=ff69b4" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya16082004&" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya16082004&theme=black-ice&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" /></p>
+
